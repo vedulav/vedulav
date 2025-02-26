@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## About me 
+
+I am an Assistant Professor in UT Permian Basin. I primarily teach cybersecurity related courses. Here will have some cool idea and implementations related to how security and privacy can be preserved using some of the existing cybersecurity tools.
 <!--
 **vedulav/vedulav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
